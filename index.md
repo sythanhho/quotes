@@ -1,4 +1,4 @@
 # Quotes  
->"Pain is inevitable. Suffering is optional."
+>"Pain is inevitable. Suffering is optional."  
 >"Play is the highest form of research."
 
