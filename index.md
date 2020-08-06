@@ -1,4 +1,5 @@
 # Quotes  
 >"Pain is inevitable. Suffering is optional."  
->"Play is the highest form of research."
-
+> - Haruki Murakami  
+>"Play is the highest form of research."  
+> - Albert Einstein
