@@ -24,5 +24,6 @@
 > - Confucius  
 >"Real knowledge is to know the extent of one's ignorance."  
 > - Will Rogers  
->"Don't let yesterday take up too much of today."
-
+>"Don't let yesterday take up too much of today."  
+> - Og Mandino  
+>"Failure will never overtake me if my determination to succeed is strong enough."
