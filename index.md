@@ -16,4 +16,7 @@
 > - Marie Curie  
 >"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."  
 > - Socrates  
->"The more you know, the more you realize you know nothing."
+>"The more you know, the more you realize you know nothing."  
+> - Mae West  
+>"You only live once, but if you do it right, once is enough."
+
