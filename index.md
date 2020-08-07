@@ -20,4 +20,7 @@
 > - Mae West  
 >"You only live once, but if you do it right, once is enough."  
 > - Franklin D. Roosevelt  
->"The only limit to our realization of tomorrow, will be our doubts of today."
+>"The only limit to our realization of tomorrow, will be our doubts of today."  
+> - Confucius  
+>"Real knowledge is to know the extent of one's ignorance."
+
