@@ -10,4 +10,6 @@
 > - Voltaire  
 >"Let us cultivate our garden."  
 > - Ralph Waldo Emerson  
->"The only person you are destined to become is the person you decide to be."
+>"The only person you are destined to become is the person you decide to be."  
+> - Maya Angelou  
+>"We may encounter many defeats, but we must not be defeated."
