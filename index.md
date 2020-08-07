@@ -22,5 +22,7 @@
 > - Franklin D. Roosevelt  
 >"The only limit to our realization of tomorrow, will be our doubts of today."  
 > - Confucius  
->"Real knowledge is to know the extent of one's ignorance."
+>"Real knowledge is to know the extent of one's ignorance."  
+> - Will Rogers  
+>"Don't let yesterday take up too much of today."
 
