@@ -32,4 +32,6 @@
 > - Maya Angelou  
 >"We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty."  
 > - Goethe  
->"We only see what we know."
+>"We only see what we know."  
+> - John Dryden  
+>"We first make our habits, then our habits make us."
