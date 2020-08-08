@@ -28,4 +28,6 @@
 > - Og Mandino  
 >"Failure will never overtake me if my determination to succeed is strong enough."  
 > - Catherine Cook  
->"If you're not making mistakes, then you're not making decisions."
+>"If you're not making mistakes, then you're not making decisions."  
+> - Maya Angelou  
+>"We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty."
