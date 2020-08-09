@@ -38,4 +38,6 @@
 > - Alan Kay  
 >"A change in perspective is worth 80 IQ points."  
 > - Alan Kay  
->"The future is not laid out on a track. It is something that we can decide, and to the extent that we do not violate any known laws of the universe, we can probably make it work the way that we want to."
+>"The future is not laid out on a track. It is something that we can decide, and to the extent that we do not violate any known laws of the universe, we can probably make it work the way that we want to."  
+> - Dr. Robert Schuller  
+>"Tough times never last, but tough people do."
