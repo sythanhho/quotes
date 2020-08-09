@@ -34,4 +34,6 @@
 > - Goethe  
 >"We only see what we know."  
 > - John Dryden  
->"We first make our habits, then our habits make us."
+>"We first make our habits, then our habits make us."  
+> - Alan Kay  
+>"A change in perspective is worth 80 IQ points."
