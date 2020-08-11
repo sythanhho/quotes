@@ -44,4 +44,6 @@
 > - Ralph Waldo Emerson  
 >"What you do speaks so loudly that I cannot hear what you say."  
 > - Alan Turing  
->"We can only see a short distance ahead, but we can see plenty there that needs to be done."
+>"We can only see a short distance ahead, but we can see plenty there that needs to be done."  
+> - Dr. Robert Schuller  
+>"Tough times never last, but tough people do."
