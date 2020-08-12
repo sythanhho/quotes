@@ -64,4 +64,6 @@
 > - Maya Angelou  
 >"We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty."  
 > - Alice Walker  
->"The most common way people give up their power is by thinking they don't have any."
+>"The most common way people give up their power is by thinking they don't have any."  
+> - Audrey Hepburn  
+>"Nothing is impossible, the word itself says "I'm possible"!"
