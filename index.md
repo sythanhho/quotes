@@ -58,4 +58,6 @@
 > - Abraham Lincoln  
 >"Whatever you are, be a good one."
 > - Maya Angelou  
->"Nothing will work unless you do."
+>"Nothing will work unless you do."  
+> - Nelson Mandela  
+>"It always seems impossible until it's done."
