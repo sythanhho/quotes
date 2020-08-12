@@ -52,4 +52,6 @@
 > - Nelson Mandela  
 >"A winner is a dreamer who never gives up."  
 > - William Faulkner  
->"You cannot swim for new horizons until you have courage to lose sight of the shore."
+>"You cannot swim for new horizons until you have courage to lose sight of the shore."  
+> - Gene Spafford  
+>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."
