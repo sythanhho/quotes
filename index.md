@@ -48,4 +48,7 @@
 > - Dr. Robert Schuller  
 >"Tough times never last, but tough people do."  
 > - Ernest Hemingway  
->"The world breaks everyone, and afterward, many are strong at the broken places."
+>"The world breaks everyone, and afterward, many are strong at the broken places."  
+> - Nelson Mandela  
+>"A winner is a dreamer who never gives up."
+
