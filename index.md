@@ -68,4 +68,6 @@
 > - Audrey Hepburn  
 >"Nothing is impossible, the word itself says "I'm possible"!"  
 > - Yogi Berra  
->"In theory there is no difference between theory and practice. In practice there is."
+>"In theory there is no difference between theory and practice. In practice there is."  
+> - C.S. Lewis  
+>"There are far, far better things ahead than any we leave behind."
