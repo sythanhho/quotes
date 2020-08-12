@@ -50,5 +50,6 @@
 > - Ernest Hemingway  
 >"The world breaks everyone, and afterward, many are strong at the broken places."  
 > - Nelson Mandela  
->"A winner is a dreamer who never gives up."
-
+>"A winner is a dreamer who never gives up."  
+> - William Faulkner  
+>"You cannot swim for new horizons until you have courage to lose sight of the shore."
