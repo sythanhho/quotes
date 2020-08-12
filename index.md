@@ -46,4 +46,6 @@
 > - Alan Turing  
 >"We can only see a short distance ahead, but we can see plenty there that needs to be done."  
 > - Dr. Robert Schuller  
->"Tough times never last, but tough people do."
+>"Tough times never last, but tough people do."  
+> - Ernest Hemingway  
+>"The world breaks everyone, and afterward, many are strong at the broken places."
