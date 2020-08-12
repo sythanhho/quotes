@@ -60,4 +60,6 @@
 > - Maya Angelou  
 >"Nothing will work unless you do."  
 > - Nelson Mandela  
->"It always seems impossible until it's done."
+>"It always seems impossible until it's done."  
+> - Maya Angelou  
+>"We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty."
