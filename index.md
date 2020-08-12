@@ -66,4 +66,6 @@
 > - Alice Walker  
 >"The most common way people give up their power is by thinking they don't have any."  
 > - Audrey Hepburn  
->"Nothing is impossible, the word itself says "I'm possible"!"
+>"Nothing is impossible, the word itself says "I'm possible"!"  
+> - Yogi Berra  
+>"In theory there is no difference between theory and practice. In practice there is."
