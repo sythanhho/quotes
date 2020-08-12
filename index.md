@@ -70,4 +70,6 @@
 > - Yogi Berra  
 >"In theory there is no difference between theory and practice. In practice there is."  
 > - C.S. Lewis  
->"There are far, far better things ahead than any we leave behind."
+>"There are far, far better things ahead than any we leave behind."  
+> - Rumi  
+>"Forget safety. Live where you fear to live. Destroy your reputation. Be notorious."
