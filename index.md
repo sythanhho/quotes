@@ -74,4 +74,6 @@
 > - Rumi  
 >"Forget safety. Live where you fear to live. Destroy your reputation. Be notorious."  
 > - Grady Booch  
->"The function of good software is to make the complex appear to be simple."
+>"The function of good software is to make the complex appear to be simple."  
+> - Eagleson's Law  
+>"Any code of your own that you haven't looked at for six or more months might as well have been written by someone else."
