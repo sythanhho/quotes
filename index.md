@@ -72,4 +72,6 @@
 > - C.S. Lewis  
 >"There are far, far better things ahead than any we leave behind."  
 > - Rumi  
->"Forget safety. Live where you fear to live. Destroy your reputation. Be notorious."
+>"Forget safety. Live where you fear to live. Destroy your reputation. Be notorious."  
+> - Grady Booch  
+>"The function of good software is to make the complex appear to be simple."
