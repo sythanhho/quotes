@@ -80,4 +80,6 @@
 > - Fyodor Dostoevsky  
 >"Right or wrong, it's very pleasant to break something from time to time."  
 > - Thomas A. Edison  
->"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
+>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."  
+> - Phyllis Diller  
+>"Never go to bed mad. Stay up and fight."
