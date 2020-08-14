@@ -82,4 +82,6 @@
 > - Thomas A. Edison  
 >"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."  
 > - Phyllis Diller  
->"Never go to bed mad. Stay up and fight."
+>"Never go to bed mad. Stay up and fight."  
+> - Henry David Thoreau  
+>"The price of anything is the amount of life you exchange for it."
