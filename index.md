@@ -94,4 +94,6 @@
 > - Kyle Chandler  
 >"Opportunity does not knock, it presents itself when you beat down the door."  
 > - C.S. Lewis  
->"We are what we believe we are."
+>"We are what we believe we are."  
+> - Arthur Ashe  
+>"Start where you are. Use what you have. Do what you can."
