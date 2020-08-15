@@ -92,4 +92,6 @@
 > - Martin Luther King Jr. 
 >"I know, somehow, that only when it is dark enough can you see the stars."  
 > - Kyle Chandler  
->"Opportunity does not knock, it presents itself when you beat down the door."
+>"Opportunity does not knock, it presents itself when you beat down the door."  
+> - C.S. Lewis  
+>"We are what we believe we are."
