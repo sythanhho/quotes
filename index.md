@@ -86,4 +86,6 @@
 > - Henry David Thoreau  
 >"The price of anything is the amount of life you exchange for it."  
 > - Eleanor Roosevelt  
->"You must do the things you think you cannot do."
+>"You must do the things you think you cannot do."  
+> - Rumi  
+>"The cure for pain is in the pain."
