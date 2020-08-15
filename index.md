@@ -84,4 +84,6 @@
 > - Phyllis Diller  
 >"Never go to bed mad. Stay up and fight."  
 > - Henry David Thoreau  
->"The price of anything is the amount of life you exchange for it."
+>"The price of anything is the amount of life you exchange for it."  
+> - Eleanor Roosevelt  
+>"You must do the things you think you cannot do."
