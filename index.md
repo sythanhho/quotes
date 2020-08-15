@@ -89,5 +89,7 @@
 >"You must do the things you think you cannot do."  
 > - Rumi  
 >"The cure for pain is in the pain."  
-> - Martin Luther King Jr.  
->"I know, somehow, that only when it is dark enough can you see the stars."
+> - Martin Luther King Jr. 
+>"I know, somehow, that only when it is dark enough can you see the stars."  
+> - Kyle Chandler  
+>"Opportunity does not knock, it presents itself when you beat down the door."
