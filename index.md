@@ -98,4 +98,6 @@
 > - Arthur Ashe  
 >"Start where you are. Use what you have. Do what you can."  
 > - W. Clement Stone  
->"Aim for the moon. If you miss, you may hit a star."
+>"Aim for the moon. If you miss, you may hit a star."  
+> - Helen Keller  
+>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
