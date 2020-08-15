@@ -106,4 +106,6 @@
 > - Albert Einstein  
 >"Wisdom is not a product of schooling but of the lifelong attempt to acquire it."  
 > - Eric Raymond  
->"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."
+>"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."  
+> - Confucius  
+>"The past cannot be changed. The future is yet in your power."
