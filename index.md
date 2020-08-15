@@ -102,4 +102,6 @@
 > - Helen Keller  
 >"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."  
 > - Charles R. Swindoll  
->"Life is 10% what happens to you and 90% how you react to it."
+>"Life is 10% what happens to you and 90% how you react to it."  
+> - Albert Einstein  
+>"Wisdom is not a product of schooling but of the lifelong attempt to acquire it."
