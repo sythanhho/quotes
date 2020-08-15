@@ -96,4 +96,6 @@
 > - C.S. Lewis  
 >"We are what we believe we are."  
 > - Arthur Ashe  
->"Start where you are. Use what you have. Do what you can."
+>"Start where you are. Use what you have. Do what you can."  
+> - W. Clement Stone  
+>"Aim for the moon. If you miss, you may hit a star."
