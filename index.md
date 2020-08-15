@@ -104,4 +104,6 @@
 > - Charles R. Swindoll  
 >"Life is 10% what happens to you and 90% how you react to it."  
 > - Albert Einstein  
->"Wisdom is not a product of schooling but of the lifelong attempt to acquire it."
+>"Wisdom is not a product of schooling but of the lifelong attempt to acquire it."  
+> - Eric Raymond  
+>"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."
