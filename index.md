@@ -100,4 +100,6 @@
 > - W. Clement Stone  
 >"Aim for the moon. If you miss, you may hit a star."  
 > - Helen Keller  
->"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."  
+> - Charles R. Swindoll  
+>"Life is 10% what happens to you and 90% how you react to it."
