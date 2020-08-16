@@ -112,4 +112,6 @@
 > - Unknown  
 >"Weeks of programming can save you hours of planning."  
 > - Eagleson's Law  
->"Any code of your own that you haven't looked at for six or more months might as well have been written by someone else."
+>"Any code of your own that you haven't looked at for six or more months might as well have been written by someone else."  
+> - Peter Deutsch  
+>"To iterate is human, to recurse divine."
