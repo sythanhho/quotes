@@ -108,4 +108,6 @@
 > - Eric Raymond  
 >"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."  
 > - Confucius  
->"The past cannot be changed. The future is yet in your power."
+>"The past cannot be changed. The future is yet in your power."  
+> - Unknown  
+>"Weeks of programming can save you hours of planning."
