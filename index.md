@@ -114,4 +114,6 @@
 > - Eagleson's Law  
 >"Any code of your own that you haven't looked at for six or more months might as well have been written by someone else."  
 > - Peter Deutsch  
->"To iterate is human, to recurse divine."
+>"To iterate is human, to recurse divine."  
+> - Gena Showalter  
+>"Giving up is the only sure way to fail."
