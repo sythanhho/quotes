@@ -1,0 +1,2 @@
+# quotes
+This repo goes along with my learning progress at Free Code Camp. Every time I refresh the curriculum if I see a new quote, I will push it to my vault. Quotes are nice. The reason this repo has lots of commits because I oftentimes push quotes one by one. Currently it's all labor work. I push them myself and format them to markdown format. I'm planning on having a dynamic site later on when I finish the React class, which will help me reduce the labor work to push a new quote in, as well as beautify the page.
