@@ -116,4 +116,6 @@
 > - Peter Deutsch  
 >"To iterate is human, to recurse divine."  
 > - Gena Showalter  
->"Giving up is the only sure way to fail."
+>"Giving up is the only sure way to fail."  
+> - Robert H. Schuller  
+>"Today's accomplishments were yesterday's impossibilities."
