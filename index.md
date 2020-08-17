@@ -120,4 +120,6 @@
 > - Robert H. Schuller  
 >"Today's accomplishments were yesterday's impossibilities."  
 > - Dan Hurvitz  
->"Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time."
+>"Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time."  
+> - Allen Ginsberg  
+>"Follow your inner moonlight. Don't hide the madness."
