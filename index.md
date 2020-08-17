@@ -124,4 +124,6 @@
 > - Allen Ginsberg  
 >"Follow your inner moonlight. Don't hide the madness."  
 > - Voltaire  
->"Let us cultivate our garden."
+>"Let us cultivate our garden."  
+> - Zig Ziglar  
+>"You don't have to be great to start, but you have to start to be great."
