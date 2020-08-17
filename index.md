@@ -118,4 +118,6 @@
 > - Gena Showalter  
 >"Giving up is the only sure way to fail."  
 > - Robert H. Schuller  
->"Today's accomplishments were yesterday's impossibilities."
+>"Today's accomplishments were yesterday's impossibilities."  
+> - Dan Hurvitz  
+>"Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time."
