@@ -122,4 +122,6 @@
 > - Dan Hurvitz  
 >"Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time."  
 > - Allen Ginsberg  
->"Follow your inner moonlight. Don't hide the madness."
+>"Follow your inner moonlight. Don't hide the madness."  
+> - Voltaire  
+>"Let us cultivate our garden."
